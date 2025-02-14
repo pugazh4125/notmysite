@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Not My Site</title>
-    <link>https://example.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Not My Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Feb 2025 21:47:38 +0530</lastBuildDate>
-    <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating This Website</title>
-      <link>https://example.com/posts/creating-this-website/</link>
+      <link>http://localhost:1313/posts/creating-this-website/</link>
       <pubDate>Thu, 13 Feb 2025 21:47:38 +0530</pubDate>
-      <guid>https://example.com/posts/creating-this-website/</guid>
+      <guid>http://localhost:1313/posts/creating-this-website/</guid>
       <description>&lt;p&gt;13/2/2025&#xA;Today i created this website succesfully with the help of my friend&#xA;actually i started working on creating this website yesterday and i have created it yesterday itself but i cant bring the website to look the same as it&#xA;looks in the localhost and i seeked the help of the chatGPT and that helped me but still i havent solved that error and my laptop&amp;rsquo;s battery came close to dead&#xA;so i turned off the laptop and i decided to tmrw which i today so today evening called my friend he was suprised that i actually created this website coz i was&#xA;trying to make this website for like 2 months i guess and can&amp;rsquo;t make it so which made him suprised that i made the website.&lt;/p&gt;</description>
     </item>
   </channel>
