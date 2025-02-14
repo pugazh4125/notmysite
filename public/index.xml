@@ -6,8 +6,19 @@
     <description>Recent content on Not My Site</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2025 21:47:38 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 22:16:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Different Day</title>
+      <link>http://localhost:1313/posts/different-day/</link>
+      <pubDate>Fri, 14 Feb 2025 22:16:10 +0530</pubDate>
+      <guid>http://localhost:1313/posts/different-day/</guid>
+      <description>&lt;h2 id=&#34;a-different-day&#34;&gt;A Different Day&lt;/h2&gt;
+&lt;p&gt;You may think why I chose this name for this blog. Well, my brain is not braining, so I just named it whatever came to my mind.&lt;/p&gt;
+&lt;h3 id=&#34;morning-routine&#34;&gt;Morning Routine&lt;/h3&gt;
+&lt;p&gt;Woke up at 5 AM, then scrolled mindlessly on Instagram for like 45+ mins. After that, I started studying classwork.&lt;/p&gt;
+&lt;p&gt;Since I created a website yesterday, I wanted to change its theme. Initially, I tried the &lt;strong&gt;Coder&lt;/strong&gt; theme, but the content wasn’t visible, so I switched to &lt;strong&gt;PaperMod&lt;/strong&gt; instead. Changing the theme took some time. After some chatting with my friend, I left for college.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Creating This Website</title>
       <link>http://localhost:1313/posts/creating-this-website/</link>

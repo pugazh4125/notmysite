@@ -3,5 +3,3 @@ languageCode = 'en-us'
 title = 'not my site'
 theme = 'PaperMod'
 relativeURLs = true
-[params]
-  ShowToc = false
