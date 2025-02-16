@@ -6,8 +6,17 @@
     <description>Recent content on Not My Site</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2025 22:16:10 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 09:40:36 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Another Day</title>
+      <link>http://localhost:1313/posts/just-another-day/</link>
+      <pubDate>Sat, 15 Feb 2025 09:40:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/just-another-day/</guid>
+      <description>&lt;p&gt;Just another day, as the name says—I spent this day doing nothing (did something but not much).&lt;/p&gt;
+&lt;p&gt;So, I woke up at &lt;strong&gt;5 AM&lt;/strong&gt;, checked my mails, scrolled for some time, and watched &lt;strong&gt;two movies&lt;/strong&gt;. Time passed quickly.&lt;/p&gt;
+&lt;p&gt;After the movies, I took a little &lt;strong&gt;nap for an hour&lt;/strong&gt; and then remembered that I had installed &lt;em&gt;Spider-Man 2&lt;/em&gt; but hadn&amp;rsquo;t played it yet. So, I opened my laptop, started playing, and &lt;strong&gt;four hours&lt;/strong&gt; flew by.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Different Day</title>
       <link>http://localhost:1313/posts/different-day/</link>
