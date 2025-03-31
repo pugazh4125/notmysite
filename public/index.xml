@@ -6,8 +6,18 @@
     <description>Recent content on Not My Site</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Mar 2025 07:51:17 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 20:02:26 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finished a Project</title>
+      <link>http://localhost:1313/posts/finished-a-project/</link>
+      <pubDate>Thu, 27 Mar 2025 20:02:26 +0530</pubDate>
+      <guid>http://localhost:1313/posts/finished-a-project/</guid>
+      <description>&lt;h2 id=&#34;first-time-finishing-a-project&#34;&gt;First time finishing a project&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;So there is a mini project contest&lt;/strong&gt; in my college i was in a team of 3 members but most of the work was done only by me,ok Let&amp;rsquo;s get to the topic&lt;/p&gt;
+&lt;h3 id=&#34;choosing-projects&#34;&gt;Choosing projects&lt;/h3&gt;
+&lt;p&gt;First i decided to do a &lt;strong&gt;automatic power factor correction&lt;/strong&gt; but i wasn&amp;rsquo;t much intrested in electrical but intrested in electronics so i decided to do a &lt;strong&gt;Solar Charge Controller&lt;/strong&gt; since my teammates didn&amp;rsquo;t so any objections on switching i started doing this but i didn&amp;rsquo;t got the output which made me tense and when i resting in my sofa suddenly i got this idea like &lt;em&gt;can we transmit and receive data using a solar panel&lt;/em&gt; so i started doing research on this then decided to do this project &lt;em&gt;&lt;strong&gt;you can find the full details about this project on my github profile link is provided at the bottom&lt;/strong&gt;&lt;/em&gt; so then i started doing this and eventualy completed this project the day before but didn&amp;rsquo;t got the output on the day of presentation,so for making up for this i did some research and learnt some things like NASA is also doing works on this project,so i included NASA and other many things to present my project but the judge didn&amp;rsquo;t seem to understand whatever i said,so i guess i won&amp;rsquo;t be coming in the &lt;em&gt;top 10&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Getting Started AGAIN</title>
       <link>http://localhost:1313/posts/getting-started-again/</link>
